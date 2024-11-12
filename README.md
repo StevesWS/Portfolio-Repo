@@ -23,7 +23,7 @@ Im happy to provide you a CV.
 ![Screenshot](https://media.licdn.com/dms/image/v2/D4D2DAQG5bKIWZFOjkw/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1729525015316?e=1731600000&v=beta&t=XyYeq_528Y9omO38i7mlW0j8tmOxrakUyw_7O5IVZDw)
 - **Description:** As my first ever game I created a Jump´n Run 2D platformer. Without story context the player has to explore a forgotten temple. After surviving deadly taps and collecting four crystals the player can challenge the final boss. Hidden coins, found through out the dungeon can make that fight easier for you! The assets for this game were made by myself in Asprite.
 -  **Tools:** Unity, Visual Studio (C#), Asprite
--  **Download-Link:** TheTemple.zip
+-  **Download-Link:** TheTemple.zip folder
   
 ### Melee-Combat-Demo
 
