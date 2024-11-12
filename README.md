@@ -22,8 +22,8 @@ Im happy to provide you a CV.
 ### TheTemple
 ![Screenshot](https://media.licdn.com/dms/image/v2/D4D2DAQG5bKIWZFOjkw/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1729525015316?e=1731600000&v=beta&t=XyYeq_528Y9omO38i7mlW0j8tmOxrakUyw_7O5IVZDw)
 - **Description:** As my first ever game I created a Jump´n Run 2D platformer. Without story context the player has to explore a forgotten temple. After surviving deadly taps and collecting four crystals the player can challenge the final boss. Hidden coins, found through out the dungeon can make that fight easier for you! The assets for this game were made by myself in Asprite.
--  **Engine:** Unity, Visual Studio (C#), Asprite
--  **Link:** [TheTemple](#TheTempleLink)
+-  **Tools:** Unity, Visual Studio (C#), Asprite
+-  **Download-Link:** TheTemple.zip
   
 ### Melee-Combat-Demo
 
@@ -31,15 +31,15 @@ Im happy to provide you a CV.
 - **Description:** As part of my Bachelor I wanted to create a melee system in the image of well know titles like "For Honor" or "Mordhau".
                 As my first project with animations, blending and Gameplay Ability Systems I decided to do this project in mostly blueprints. 
                 Additionaly I included some multiplayer functions for testing.
--  **Engine:** Unreal Engine 5, Blueprints, Visual Studio (C++)
--  **Link:** [Melee-Combat-Demo](#DemoLink)
+-  **Tools:** Unreal Engine 5, Blueprints, Visual Studio (C++)
+-  **Download-Link:** [Melee-Combat-Demo](https://www.dropbox.com/scl/fi/q1y3g7d5a0beja16kcgfm/Executable-Demo.zip?rlkey=55k69jv3siz3czy4xjobnc3zn&st=sjuods4k&dl=0)
 
 ### PixelHunters
 
 ![Screenshot](https://media.licdn.com/dms/image/v2/D4D2DAQEiRnfLdBaM_w/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1729528852132?e=1731600000&v=beta&t=_AwfzQYp7wfLlerZpIQhSSrtEuVgurF0WeU7-J1HkzM)
 - **Description:** Oriented on the monster hunting genre I wanted to create a game set in a 2D environment. So i create a 2.5D game where the player would be able to pick a mission from a quest board, hunt a monster and repeat the cycle. Due to the limited time of my studie the AI aspect of monsters was cut out. The assets were created by myself in Asprite. PixelHunters is written in C++.
--  **Engine:** Unreal Engine 5, Visual Studio (C++), Asprite
--  **Link:** [PixelHunters](#PHLink)
+-  **Tools:** Unreal Engine 5, Visual Studio (C++), Asprite
+-  **Download-Link:** [PixelHunters](https://www.dropbox.com/scl/fi/o092ss3fril9152dl4nc4/Executable-PixelHunters.zip?rlkey=x8sxbx4frojafaqie0yr9r6k4&st=p3m6z47j&dl=0)
 
 ## Contact
 To contact me please visit my [LinkedIn](https://www.linkedin.com/in/steven-br%C3%BCckner-202305333/) or contact me via E-Mail at BruecknerSteven@web.de.<br>
